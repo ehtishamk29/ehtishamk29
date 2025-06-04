@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamk29&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamk29" /> </p>
 
-- 🔭 I’m currently working on [Finfo [AI Powered Financial advisor]](Computer Engineer | CS | AI Enthusiast | DS | GIKI'25)
+- 🔭 I’m currently working on Finfo [AI Powered Financial advisor Web-App]
 
 - 🌱 I’m currently learning **MERN STACK & AI AGENTS (RAG,N8N ETC)**
 
